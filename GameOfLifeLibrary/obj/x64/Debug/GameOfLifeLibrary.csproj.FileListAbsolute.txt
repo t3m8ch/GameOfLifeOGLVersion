@@ -1,0 +1,6 @@
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\bin\x64\Debug\GameOfLifeLibrary.dll
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\bin\x64\Debug\GameOfLifeLibrary.pdb
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\obj\x64\Debug\GameOfLifeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\obj\x64\Debug\GameOfLifeLibrary.dll
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\obj\x64\Debug\GameOfLifeLibrary.pdb
+C:\Users\Artem\source\repos\GameOfLifeOpenGLVersion\GameOfLifeLibrary\obj\x64\Debug\GameOfLifeLibrary.csprojAssemblyReference.cache
